@@ -3,7 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-
+# Ajout pour forcer un commit de nettoyage
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
